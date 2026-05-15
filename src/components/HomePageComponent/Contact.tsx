@@ -89,10 +89,7 @@ export default function Contact() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!validateForm()) return;
-
     setStatus("loading");
-    console.log("formData", formData);
-    // Simulate API call
     setTimeout(() => {
       setStatus("success");
       setFormData({
