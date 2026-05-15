@@ -1,0 +1,96 @@
+{
+  "content": {
+    "intro": "This Privacy Policy applies to Shree Vasudev Cement Products and describes how we handle information collected through our website vasudevprecast.com and any direct communications with our team.",
+    "information-we-collect": {
+      "id": "information-we-collect",
+      "title": "Information We Collect",
+      "icon": "Info",
+      "text": "We collect information you voluntarily provide when you contact us through forms, phone, or email. This may include:",
+      "items": [
+        "Full name and business or individual contact details.",
+        "Phone number and email address.",
+        "Location or project address for delivery and service inquiries.",
+        "Details about your requirements (product type, quantity, timeline)."
+      ],
+      "footer": "We may also collect non-personal technical data automatically, such as browser type, device information, pages visited, and referring URLs through standard server logs or analytics tools."
+    },
+    "how-we-use": {
+      "id": "how-we-use",
+      "title": "How We Use Your Information",
+      "icon": "BarChart2",
+      "text": "The information we collect is used to:",
+      "items": [
+        "Respond to your inquiries and provide accurate product quotes.",
+        "Process and fulfil orders or service requests.",
+        "Send relevant updates about your order or project status.",
+        "Improve our website, products, and customer communication.",
+        "Comply with legal obligations where applicable."
+      ],
+      "footer": "We will not use your data for unsolicited marketing without your explicit consent."
+    },
+    "sharing": {
+      "id": "sharing",
+      "title": "Sharing of Information",
+      "icon": "Share2",
+      "text": "We do not sell, trade, or rent your personal information to third parties. We may share your data only in the following circumstances:",
+      "items": [
+        "With trusted logistics or delivery partners to fulfil your order.",
+        "With professional advisors such as legal or financial consultants under confidentiality agreements.",
+        "When required by law, regulation, or a valid legal process."
+      ]
+    },
+    "cookies": {
+      "id": "cookies",
+      "title": "Cookies & Tracking",
+      "icon": "Cookie",
+      "text": "Our website may use cookies — small text files stored on your device — to improve your browsing experience. Cookies help us understand how visitors interact with the site (e.g., which pages are most visited).",
+      "footer": "You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, some parts of the website may not function properly without cookies."
+    },
+    "data-security": {
+      "id": "data-security",
+      "title": "Data Security",
+      "icon": "Lock",
+      "text": "We take reasonable precautions to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure.",
+      "footer": "We encourage you to avoid sending sensitive financial or identification information through our website contact forms."
+    },
+    "third-party": {
+      "id": "third-party",
+      "title": "Third-Party Links",
+      "icon": "ExternalLink",
+      "text": "Our website may contain links to external websites (such as social media platforms). We are not responsible for the privacy practices or content of those sites. We encourage you to review the privacy policies of any third-party site you visit."
+    },
+    "your-rights": {
+      "id": "your-rights",
+      "title": "Your Rights",
+      "icon": "UserCheck",
+      "text": "You have the right to:",
+      "items": [
+        "Request access to the personal information we hold about you.",
+        "Request correction of inaccurate or incomplete data.",
+        "Request deletion of your data where we have no legitimate reason to retain it.",
+        "Withdraw consent for communications at any time by contacting us."
+      ],
+      "footer": "To exercise any of these rights, please contact us using the details in the Contact Us section below."
+    },
+    "children": {
+      "id": "children",
+      "title": "Children's Privacy",
+      "icon": "Baby",
+      "text": "Our website and services are not directed at individuals under the age of 18. We do not knowingly collect personal information from minors. If you believe a child has provided us with personal data, please contact us and we will promptly delete it."
+    },
+    "changes": {
+      "id": "changes",
+      "title": "Changes to This Policy",
+      "icon": "RefreshCw",
+      "text": "We reserve the right to update this Privacy Policy at any time. Changes will be reflected on this page with a revised date. Continued use of our website after any modifications constitutes your acceptance of the updated policy."
+    },
+    "contact": {
+      "id": "contact",
+      "title": "Contact Us",
+      "icon": "MessageCircle",
+      "text": "For any questions, concerns, or requests related to this Privacy Policy, please reach out to us:",
+      "email": "vasudevcement4@gmail.com",
+      "phone": "+91 97265 93874"
+    }
+  }
+}

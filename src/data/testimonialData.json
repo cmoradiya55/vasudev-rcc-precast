@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "userPhoto": "",
+    "name": "Mukesh Sahu",
+    "rating": 4.5,
+    "review": "Best quality and supportive management."
+  },
+  {
+    "id": 2,
+    "userPhoto": "",
+    "name": "Priten Vaghasiya",
+    "rating": 3.5,
+    "review": "Fast service, best quality, great response. Keep the best work."
+  },
+  {
+    "id": 3,
+    "userPhoto": "",
+    "name": "Patel Kuldip",
+    "rating": 2.5,
+    "review": "Very best quality of pre cast wall in surat."
+  },
+  {
+    "id": 4,
+    "userPhoto": "",
+    "name": "Rama Shankar",
+    "rating": 3.5,
+    "review": "𝓑𝓮𝓼𝓽 𝓼𝓮𝓻𝓿𝓲𝓬𝓮"
+  },
+  {
+    "id": 5,
+    "userPhoto": "",
+    "name": "Piyush Sohla",
+    "rating": 4.5,
+    "review": "Surat biggest precast wall company in surat."
+  },
+  {
+    "id": 6,
+    "userPhoto": "",
+    "name": "Kakadiya Ankit",
+    "rating": 4.5,
+    "review": "Good quality and best service. Awe behaviour, we are impressed by your work and wall strength."
+  },
+  {
+    "id": 7,
+    "userPhoto": "",
+    "name": "Kalpesh Bhuva",
+    "rating": 3.5,
+    "review": "Surat 1st leading precast wall company."
+  },
+  {
+    "id": 8,
+    "userPhoto": "",
+    "name": "Nimesh Gajera",
+    "rating": 2.5,
+    "review": "They made R.C.C. folding walls and other related products. Nice location, excellent work. Best work."
+  },
+  {
+    "id": 9,
+    "userPhoto": "",
+    "name": "Mitul Mordiya",
+    "rating": 4.5,
+    "review": "Great job, services and pure product. Responsible."
+  },
+  {
+    "id": 10,
+    "userPhoto": "",
+    "name": "Reshma Patel",
+    "rating": 1.5,
+    "review": "Best precast wall in surat."
+  },
+  {
+    "id": 11,
+    "userPhoto": "",
+    "name": "Sanjay Dobariya",
+    "rating": 1,
+    "review": "Good work, best service and humanity great."
+  },
+  {
+    "id": 12,
+    "userPhoto": "",
+    "name": "Dhruv Gohil",
+    "rating": 5,
+    "review": "Good service, great wall quality."
+  },
+  {
+    "id": 13,
+    "userPhoto": "",
+    "name": "Akshay Hirani",
+    "rating": 0.5,
+    "review": "RCC precast folding compound wall — excellent work, best finishing."
+  }
+]

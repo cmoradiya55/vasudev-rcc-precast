@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "/product1.webp",
+    "title": "Single color compound wall",
+    "discription": "An outdoor area enclosed by a precast concrete boundary wall. The wall consists of white horizontal slabs held in place by vertical orange-painted columns, with a wavy orange border on top."
+  },
+  {
+    "id": 2,
+    "image": "/product2.webp",
+    "title": "Designed compound wall",
+    "discription": "A precast RCC (Reinforced Cement Concrete) boundary wall with decorative cut-out patterns. The wall consists of multiple concrete panels supported by vertical posts, providing a sturdy and durable structure. The cut-out design adds an aesthetic appeal while allowing visibility and airflow."
+  },
+  {
+    "id": 3,
+    "image": "/product3.webp",
+    "title": "Foldable shelter/rooms",
+    "discription": "A precast RCC (Reinforced Cement Concrete) cattle shed or animal shelter, constructed using concrete panels and vertical support posts. The structure features multiple openings for ventilation, ensuring proper airflow inside. "
+  },
+  {
+    "id": 4,
+    "image": "/product4.webp",
+    "title": "Vibrant Gradient RCC Boundary Wall",
+    "discription": "A beautifully designed RCC (Reinforced Cement Concrete) boundary wall with a striking gradient color transition. The panels smoothly blend warm color shades and cool color shades, creating an eye-catching aesthetic. The top of the wall features a wavy design."
+  },
+  {
+    "id": 5,
+    "image": "/product5.webp",
+    "title": "Elegant RCC Boundary Wall",
+    "discription": "A well-constructed pre-cast boundary wall, painted in a combination of white and red. The wall features a wavy top design, adding a decorative touch to its sturdy structure. The red borders on the top and vertical edges enhance its visual appeal while providing a bold contrast to the white panels."
+  },
+  {
+    "id": 6,
+    "image": "/product6.webp",
+    "title": "Simple compound wall",
+    "discription": "The image showcases a RCC Precast Readymade Compound Wall, constructed using prestressed concrete panels for strength and durability. The wall is installed as a boundary fencing solution."
+  },
+  {
+    "id": 7,
+    "image": "/product7.webp",
+    "title": "RCC precast compound wall",
+    "discription": "A RCC Precast Readymade Compound Wall, designed for boundary fencing and security purposes. The wall panels are painted white with blue vertical supports and have a wavy design at the top, adding an aesthetic appeal."
+  },
+  {
+    "id": 8,
+    "image": "/product8.webp",
+    "title": "Simple compound wall",
+    "discription": "A precast RCC (Reinforced Cement Concrete) readymade compound wall, installed as a boundary wall for a property. The wall panels are made of precast concrete slabs, fitted between concrete pillars to ensure stability and strength."
+  },
+  {
+    "id": 9,
+    "image": "/product9.webp",
+    "title": "RCC precast garden wall",
+    "discription": "A precast RCC garden boundary wall, designed to enclose and protect a landscaped area with flowering plants and greenery. The wall consists of small concrete panels with a curved top design, supported by vertical RCC posts, which are securely embedded in the ground for stability."
+  }
+]

@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.animate-scroll {
+  display: flex;
+  animation: scroll 60s linear infinite;
+}
+
+/* Css for testimony component */
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.hover\:pause-scroll:hover {
+  animation-play-state: paused;
+}
+
+.whatsAppLogoWrapper {
+  position: fixed;
+  bottom: -4px;
+  right: 20px;
+  z-index: 10000;
+  height: 80px;
+}
+
+.whatsAppMessageWrapper {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  padding: 0;
+  opacity: 0;
+  visibility: hidden;
+  width: 0;
+  transition: opacity 0.2s;
+
+  p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+}
+
+.whatsAppLogo {
+  &:hover .whatsAppMessageWrapper {
+    opacity: 1;
+    visibility: visible;
+    width: auto;
+    padding: 12px;
+    margin-right: 5px;
+  }
+}

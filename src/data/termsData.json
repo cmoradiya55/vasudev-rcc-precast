@@ -1,0 +1,71 @@
+{
+  "content": {
+    "intro": "By accessing or using the Vasudev Precast website (vasudevprecast.com) or contacting us for products and services, you agree to be bound by the following terms and conditions. If you do not agree, please discontinue use immediately.",
+    "acceptance": {
+      "id": "acceptance",
+      "title": "Acceptance of Terms",
+      "icon": "CheckSquare",
+      "text": "These Terms & Conditions constitute a legally binding agreement between you (the user) and Shree Vasudev Cement Products (also referred to as \"we\", \"us\", or \"our\"). By browsing our website, submitting an inquiry, or placing an order, you acknowledge that you have read, understood, and agree to be bound by these terms."
+    },
+    "use-of-site": {
+      "id": "use-of-site",
+      "title": "Use of This Website",
+      "icon": "Globe",
+      "text": "You agree to use this website solely for lawful purposes. You must not:",
+      "prohibited": [
+        "Use the site in any way that violates applicable local, national, or international laws or regulations.",
+        "Transmit any unsolicited or unauthorized advertising or promotional material.",
+        "Attempt to gain unauthorized access to any part of the website or its servers.",
+        "Reproduce, duplicate, or resell any part of our site without express written permission."
+      ]
+    },
+    "products": {
+      "id": "products",
+      "title": "Products & Services",
+      "icon": "Package",
+      "text": "Shree Vasudev Cement Products manufactures and supplies RCC readymade precast binding walls and related cement products. All product specifications, dimensions, and availability listed on this website are for informational purposes only and subject to change without prior notice.",
+      "footer": "Final product details, pricing, and delivery timelines are confirmed only through a written quotation or agreement issued by our team."
+    },
+    "pricing": {
+      "id": "pricing",
+      "title": "Pricing & Payments",
+      "icon": "CreditCard",
+      "text": "All prices quoted are in Indian Rupees (INR) and are exclusive of applicable taxes unless explicitly stated. Prices are subject to change without notice.",
+      "footer": "Payment terms, including advance amounts, milestones, and final settlement, will be specified in the individual sales agreement. We reserve the right to withhold delivery until full payment is received as per agreed terms."
+    },
+    "intellectual-property": {
+      "id": "intellectual-property",
+      "title": "Intellectual Property",
+      "icon": "Copyright",
+      "text": "All content on this website — including text, images, logos, graphics, and page layouts — is the exclusive property of Shree Vasudev Cement Products or its content suppliers and is protected under applicable intellectual property laws.",
+      "footer": "You may not copy, reproduce, distribute, or create derivative works from any content on this site without our prior written consent."
+    },
+    "limitation": {
+      "id": "limitation",
+      "title": "Limitation of Liability",
+      "icon": "AlertTriangle",
+      "text": "To the fullest extent permitted by law, Shree Vasudev Cement Products shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of this website or our products.",
+      "footer": "We make no warranties — express or implied — regarding the accuracy, completeness, or suitability of information on this site for any particular purpose."
+    },
+    "privacy": {
+      "id": "privacy",
+      "title": "Privacy & Data",
+      "icon": "ShieldCheck",
+      "text": "Any personal information you provide through this website (such as contact forms) is collected and processed in accordance with our Privacy Policy. By using this site, you consent to such processing."
+    },
+    "changes": {
+      "id": "changes",
+      "title": "Changes to Terms",
+      "icon": "RefreshCw",
+      "text": "We reserve the right to modify these Terms & Conditions at any time. Changes will be posted on this page with an updated revision date. Continued use of the website after any changes constitutes your acceptance of the new terms."
+    },
+    "contact": {
+      "id": "contact",
+      "title": "Contact Us",
+      "icon": "MessageCircle",
+      "text": "If you have any questions about these Terms & Conditions, please reach out to us:",
+      "email": "vasudevcement4@gmail.com",
+      "phone": "+91 97265 93874"
+    }
+  }
+}
