@@ -1,10 +1,182 @@
 [
-  { "src": "/photoGallery/photo1.webp", "title": "Boundary Wall" },
-  { "src": "/photoGallery/photo2.webp", "title": "Industrial Panels" },
-  { "src": "/photoGallery/photo3.webp", "title": "Garden Installation" },
-  { "src": "/photoGallery/photo4.webp", "title": "Commercial Complex" },
-  { "src": "/photoGallery/photo5.webp", "title": "Residential Project" },
-  { "src": "/photoGallery/photo6.webp", "title": "Compound Fencing" },
-  { "src": "/photoGallery/photo7.webp", "title": "Premium Wall Units" },
-  { "src": "/photoGallery/photo8.webp", "title": "Custom Precast" }
+  {
+    "src": "/photoGallery/wall/wall1.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall2.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall3.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall4.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall5.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall6.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall7.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall8.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall9.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall10.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall11.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall12.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall13.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall14.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall15.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall16.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall17.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall18.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall19.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall20.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall21.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall22.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall23.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall24.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall25.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall26.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall27.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/wall/wall28.webp",
+    "title": "Compound Wall",
+    "category": "wall"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks1.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks2.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks3.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks4.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks5.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks6.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks7.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  },
+  {
+    "src": "/photoGallery/bricks/bricks8.webp",
+    "title": "Bricks",
+    "category": "bricks"
+  }
 ]
