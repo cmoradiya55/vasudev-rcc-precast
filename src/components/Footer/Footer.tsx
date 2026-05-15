@@ -154,6 +154,13 @@ const Footer = () => {
                     {/* +91 90330 50390 */}
                     {process.env.NEXT_PUBLIC_PHONE_NUMBER_02}
                   </Link>
+                  <Link
+                    href={`tel:${process.env.NEXT_PUBLIC_PHONE_NUMBER_03}`}
+                    className="text-gray-900 transition-colors hover:text-blue-500 hover:underline"
+                  >
+                    {/* +91 90330 50390 */}
+                    {process.env.NEXT_PUBLIC_PHONE_NUMBER_03}
+                  </Link>
                 </div>
               </div>
               <div className="flex items-center gap-4">

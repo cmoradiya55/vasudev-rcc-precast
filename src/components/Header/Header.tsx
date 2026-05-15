@@ -171,7 +171,10 @@ export default function Header() {
                       Call Directly
                     </p>
                     <p className="text-sm font-bold text-gray-900">
-                      +91-9726593874 / 9033050390
+                      {/* +91-9726593874 / 9033050390 */}
+                      {process.env.NEXT_PUBLIC_PHONE_NUMBER_01} /{" "}
+                      {process.env.NEXT_PUBLIC_PHONE_NUMBER_02} /{" "}
+                      {process.env.NEXT_PUBLIC_PHONE_NUMBER_03}
                     </p>
                   </div>
                 </div>
@@ -179,10 +182,7 @@ export default function Header() {
             </nav>
           </div>
           {/* Backdrop to close menu */}
-          <div
-            className="fixed inset-0 -z-10 lg:hidden"
-            onClick={closeMenu}
-          />
+          <div className="fixed inset-0 -z-10 lg:hidden" onClick={closeMenu} />
         </>
       )}
     </header>
