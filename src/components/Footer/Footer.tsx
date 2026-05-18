@@ -130,11 +130,15 @@ const Footer = () => {
               <div className="flex items-start gap-4">
                 <MapPin className="w-4 h-4 text-gray-500 shrink-0 mt-1" />
                 <p className="leading-relaxed text-gray-600">
-                  NH 8, Surat-Bharuch Highway,
+                  Block No.88, near Pal Villa,
                   <br />
-                  Near Pipodra Flyover Bridge,
+                  Opp. Panjala pol, Behind NH-8,
                   <br />
-                  Surat, Gujarat, India - 394110
+                  Raj Hotel, Opp. Sumul dairy,
+                  <br />
+                  Navi Pardi,
+                  <br />
+                  Surat, Gujarat, India - 394150
                 </p>
               </div>
               <div className="flex items-center gap-4">
